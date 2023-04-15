@@ -4,6 +4,7 @@
 //1 4 7 2
 //5 9 2 3
 //8 4 2 4
+//17 -> такого числа в массиве нет
 
 Console.WriteLine("введите номер строки");
 int n = Convert.ToInt32(Console.ReadLine());
